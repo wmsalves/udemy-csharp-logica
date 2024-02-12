@@ -1,0 +1,14 @@
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\uri1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\uri1002.AssemblyInfoInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\uri1002.AssemblyInfo.cs
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\uri1002.csproj.CoreCompileInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\bin\Debug\net8.0\uri1002.exe
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\bin\Debug\net8.0\uri1002.deps.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\bin\Debug\net8.0\uri1002.runtimeconfig.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\bin\Debug\net8.0\uri1002.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\bin\Debug\net8.0\uri1002.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\uri1002.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\refint\uri1002.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\uri1002.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\uri1002.genruntimeconfig.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp\01-EstruturaSequencial\uri1002\obj\Debug\net8.0\ref\uri1002.dll
