@@ -1,0 +1,15 @@
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\uri1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\uri1011.AssemblyInfoInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\uri1011.AssemblyInfo.cs
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\uri1011.csproj.CoreCompileInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\uri1011.sourcelink.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\bin\Debug\net8.0\uri1011.exe
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\bin\Debug\net8.0\uri1011.deps.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\bin\Debug\net8.0\uri1011.runtimeconfig.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\bin\Debug\net8.0\uri1011.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\bin\Debug\net8.0\uri1011.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\uri1011.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\refint\uri1011.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\uri1011.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\uri1011.genruntimeconfig.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\01-EstruturaSequencial\uri1011\obj\Debug\net8.0\ref\uri1011.dll
