@@ -1,0 +1,15 @@
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\bin\Debug\net8.0\uri1051.exe
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\bin\Debug\net8.0\uri1051.deps.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\bin\Debug\net8.0\uri1051.runtimeconfig.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\bin\Debug\net8.0\uri1051.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\bin\Debug\net8.0\uri1051.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\uri1051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\uri1051.AssemblyInfoInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\uri1051.AssemblyInfo.cs
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\uri1051.csproj.CoreCompileInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\uri1051.sourcelink.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\uri1051.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\refint\uri1051.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\uri1051.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\uri1051.genruntimeconfig.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\02-EstruturaCondicional\uri1051\obj\Debug\net8.0\ref\uri1051.dll
