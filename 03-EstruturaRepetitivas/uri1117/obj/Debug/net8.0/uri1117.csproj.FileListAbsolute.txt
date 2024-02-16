@@ -1,0 +1,15 @@
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\bin\Debug\net8.0\uri1117.exe
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\bin\Debug\net8.0\uri1117.deps.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\bin\Debug\net8.0\uri1117.runtimeconfig.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\bin\Debug\net8.0\uri1117.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\bin\Debug\net8.0\uri1117.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\uri1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\uri1117.AssemblyInfoInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\uri1117.AssemblyInfo.cs
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\uri1117.csproj.CoreCompileInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\uri1117.sourcelink.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\uri1117.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\refint\uri1117.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\uri1117.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\uri1117.genruntimeconfig.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\03-EstruturaRepetitivas\uri1117\obj\Debug\net8.0\ref\uri1117.dll
