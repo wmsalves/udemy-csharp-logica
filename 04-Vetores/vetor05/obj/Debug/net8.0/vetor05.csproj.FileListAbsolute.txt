@@ -1,0 +1,15 @@
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\bin\Debug\net8.0\vetor05.exe
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\bin\Debug\net8.0\vetor05.deps.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\bin\Debug\net8.0\vetor05.runtimeconfig.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\bin\Debug\net8.0\vetor05.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\bin\Debug\net8.0\vetor05.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\vetor05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\vetor05.AssemblyInfoInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\vetor05.AssemblyInfo.cs
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\vetor05.csproj.CoreCompileInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\vetor05.sourcelink.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\vetor05.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\refint\vetor05.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\vetor05.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\vetor05.genruntimeconfig.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor05\obj\Debug\net8.0\ref\vetor05.dll

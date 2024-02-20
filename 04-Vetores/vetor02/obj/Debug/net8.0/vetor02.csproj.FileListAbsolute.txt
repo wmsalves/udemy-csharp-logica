@@ -1,0 +1,15 @@
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\bin\Debug\net8.0\vetor02.exe
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\bin\Debug\net8.0\vetor02.deps.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\bin\Debug\net8.0\vetor02.runtimeconfig.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\bin\Debug\net8.0\vetor02.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\bin\Debug\net8.0\vetor02.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\vetor02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\vetor02.AssemblyInfoInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\vetor02.AssemblyInfo.cs
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\vetor02.csproj.CoreCompileInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\vetor02.sourcelink.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\vetor02.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\refint\vetor02.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\vetor02.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\vetor02.genruntimeconfig.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\04-Vetores\vetor02\obj\Debug\net8.0\ref\vetor02.dll
