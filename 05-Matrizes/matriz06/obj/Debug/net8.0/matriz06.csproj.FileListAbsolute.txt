@@ -1,0 +1,15 @@
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\bin\Debug\net8.0\matriz06.exe
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\bin\Debug\net8.0\matriz06.deps.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\bin\Debug\net8.0\matriz06.runtimeconfig.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\bin\Debug\net8.0\matriz06.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\bin\Debug\net8.0\matriz06.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\matriz06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\matriz06.AssemblyInfoInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\matriz06.AssemblyInfo.cs
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\matriz06.csproj.CoreCompileInputs.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\matriz06.sourcelink.json
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\matriz06.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\refint\matriz06.dll
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\matriz06.pdb
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\matriz06.genruntimeconfig.cache
+C:\Users\wemerson.alves\Desktop\PROJETOS 2024\udemy-csharp-logica\05-Matrizes\matriz06\obj\Debug\net8.0\ref\matriz06.dll
